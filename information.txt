@@ -1,4 +1,5 @@
 Bapun Kumar Sahoo
 Bengaluru
 Quantiphi Analytics Solutions
-Senior Test Automation Engineer
+Senior Test Automation Engineer\
+Git, Aws
